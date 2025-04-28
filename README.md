@@ -61,10 +61,6 @@ The system uses anthropometric features (standard human body measurements) to au
 - A device with a basic webcam
 - A modern browser that supports WebAssembly (Chrome, Firefox, Edge)
 
-## Demo
-
-[Insert demo link here if available, e.g., GitHub Pages or Vercel]
-
 ## License
 
 This project is licensed under the MIT License.  
